@@ -5,3 +5,5 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=isabelatodescatt&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estudando na Escola Sesi<br/> Cursando Análise Desenvolvimento de Sistemas no senai</p>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
