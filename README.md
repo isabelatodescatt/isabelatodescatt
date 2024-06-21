@@ -6,4 +6,4 @@
 
 <p>Estudando na Escola Sesi<br/> Cursando Análise Desenvolvimento de Sistemas no senai</p>
 
-[![isabelatodescatt](https://github-readme-stats.vercel.app/api/top-langs/?username=e=isabelatodescatt&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/isabelatodescatt/github-readme-stats)
+[![isabelatodescatt](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelatodescatt&color=f8efd4\&layout=compact)
