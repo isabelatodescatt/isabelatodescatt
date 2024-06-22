@@ -6,5 +6,5 @@
 
 <p>⊹ ࣪ ˖Estudando na Escola Sesi<br/> Cursando Análise Desenvolvimento de Sistemas no senai</p>
 <br>
-
+<p>≽/ᐠ - ˕ -マ≼ Ⳋ</p>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelatodescatt&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4">
