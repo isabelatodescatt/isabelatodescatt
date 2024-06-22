@@ -9,7 +9,7 @@
 </p>
 
 <br>
-<img align='left' src=https://spotify-recently-played-readme.vercel.app/api?user=obbl7mgc7223resqxai6oavpj>
+<img align='left' src="https://spotify-recently-played-readme.vercel.app/api?user=obbl7mgc7223resqxai6oavpj">
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelatodescatt&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4">
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
